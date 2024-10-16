@@ -1,5 +1,6 @@
 # Titanic Case
 Titanic - Machine Learning from Disaster
+
 Titanic Survival Prediction Project
 Goal:
 Predict survival outcomes of passengers on the Titanic using machine learning models.
